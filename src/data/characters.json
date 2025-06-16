@@ -1,0 +1,17 @@
+[
+  {
+    "id": "astra",
+    "name": "Astra",
+    "role": "Support",
+    "element": "Light",
+    "rarity": "SSR",
+    "tier": "S",
+    "image": "/images/astra.png",
+    "stats": { "atk": 120, "def": 80, "hp": 1500 },
+    "skills": [
+      { "name": "Lumina Wave", "description": "Heals allies and removes debuff." },
+      { "name": "Sanctuary", "description": "Grants barrier." }
+    ],
+    "synergies": "Pairs well with crit-based DPS."
+  }
+]
